@@ -1,0 +1,4 @@
+* reference
+  [[https://github.com/talkgo/read][talkgo]]
+  [[https://golang.org/doc/effective_go][Effective Go]]
+  [[https://github.com/geektutu/7days-golang][7days-golang]]
